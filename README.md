@@ -16,5 +16,5 @@ Hi! Welcome to my collection of learning resources. Here, I will continue to add
 1. [TensorFlow official tutorial](https://www.tensorflow.org/tutorials/load_data/pandas_dataframe) - Looks like a comprehensive tutorial covering both beginner and advanced topics, with a focus on using TensorFlow for data processing.
 
 ## Python Basics
-1. 
+1. https://github.com/guipsamora/pandas_exercises - A great repo for practising Pandas. I often brush up on my Pandas skills using this repo from time to time and my solutions and additions can be found [here](https://github.com/avirupc/pandas-exercises).
 
