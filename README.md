@@ -1,8 +1,7 @@
 # learning-resources
 A collection of learning resources
 
-
-Hi! Welcome to my collection of learning resources. Here, I will continue to add materials primarily focused on Machine Learning and Statistical Methods. Over time, I may reorganize these topics in a more structured and interpretable way for easier navigation.
+Welcome to my collection of learning resources. Here, I will continue to add materials primarily focused on Machine Learning and Statistical Methods. Over time, I may reorganize these topics in a more structured and interpretable way for easier navigation.
 
 ## NLP/LLM
 1. [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - The seminal paper introducing transformers.
