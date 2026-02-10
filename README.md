@@ -11,7 +11,7 @@ Welcome to my collection of learning resources. Here, I will continue to add mat
 5. [HuggingFace LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) - A great course to get hands-on with large language models. I am following this course myself and keeping an updated repo with materials and code changes. Feel free to check it out [here](https://github.com/avirupc/nlp/tree/main/HuggingFace%20LLM%20Course).
 6. [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt?tab=readme-ov-file#introduction) - A turorial from TensorFlow
 
-Note: Lectures from Professor Madhavan Mukund (CMI) on RNN and LSTM are quite good.
+Note: Lectures from Professor Madhavan Mukund (CMI) on RNN and LSTM are quite good and should be checked for fundamentals.
 
 ## TensorFlow
 1. [TensorFlow official tutorial](https://www.tensorflow.org/tutorials/load_data/pandas_dataframe) - Looks like a comprehensive tutorial covering both beginner and advanced topics, with a focus on using TensorFlow for data processing.
