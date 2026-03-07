@@ -26,3 +26,7 @@ Note: Lectures from Professor Madhavan Mukund (CMI) on RNN and LSTM are quite go
 ## Python Basics
 1. https://github.com/guipsamora/pandas_exercises - A great repo for practising Pandas. I often brush up on my Pandas skills using this repo from time to time and my solutions and additions can be found [here](https://github.com/avirupc/pandas-exercises).
 
+## SQL
+1. https://sqlzoo.net/wiki/SQL_Tutorial
+2. https://www.sql-practice.com/
+
