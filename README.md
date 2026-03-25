@@ -29,4 +29,4 @@ Note: Lectures from Professor Madhavan Mukund (CMI) on RNN and LSTM are quite go
 ## SQL
 1. https://sqlzoo.net/wiki/SQL_Tutorial
 2. https://www.sql-practice.com/
-
+3. https://github.com/avirupc/sql-learning - I have been building this repository that compiles online resources into a structured collection of questions and answers.
