@@ -23,6 +23,12 @@ Note: Lectures from Professor Madhavan Mukund (CMI) on RNN and LSTM are quite go
 ## TensorFlow
 1. [TensorFlow official tutorial](https://www.tensorflow.org/tutorials/load_data/pandas_dataframe) - Looks like a comprehensive tutorial covering both beginner and advanced topics, with a focus on using TensorFlow for data processing.
 
+## Time Series
+(Haven't checked you anything yet personally. Will add comments as I do so.)
+1. [Forecasting: Principles and Practice - by Rob J Hyndman and George Athanasopoulos](https://otexts.com/fpp3) (3rd Edition) - I am seeing this name almost everywhere as a suggestion.
+2. https://machinelearningplus.com/time-series/time-series-analysis-python/
+3. https://www.tensorflow.org/tutorials/structured_data/time_series - Part of Tensorflow's official tutorial mentioned above
+
 ## Python Basics
 1. https://github.com/guipsamora/pandas_exercises - A great repo for practising Pandas. I often brush up on my Pandas skills using this repo from time to time and my solutions and additions can be found [here](https://github.com/avirupc/pandas-exercises).
 
