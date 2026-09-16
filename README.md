@@ -36,3 +36,8 @@ Note: Lectures from Professor Madhavan Mukund (CMI) on RNN and LSTM are quite go
 1. https://sqlzoo.net/wiki/SQL_Tutorial
 2. https://www.sql-practice.com/
 3. https://github.com/avirupc/sql-learning - I have been building this repository that compiles online resources into a structured collection of questions and answers.
+
+## Finance
+1. [Zerodha Varsity](https://zerodha.com/varsity/) - A beginner-friendly, structured learning resource covering a wide range of topics through step-by-step modules. I am personally following these modules as part of my learning journey, and my notes and takeaways from them can be found in my personal repository mentioned below.
+2. [My Finance & Trading Learning Repository](https://github.com/avirupc/finance-and-trading/) - My personal repository documenting my learning journey in Finance and Trading. I will be actively updating it as I study, with notes, concepts, and learnings from the resources I follow.
+
