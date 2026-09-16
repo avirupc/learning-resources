@@ -16,7 +16,7 @@ I recommend reviewing the basics of RNNs before diving into the LSTM stuff here.
 
 6. [HuggingFace LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) - A great course to get hands-on with large language models.<br>🖥️ I am following this course myself and keeping an updated repo with materials and code changes. Feel free to check it out [here](https://github.com/avirupc/nlp/tree/main/HuggingFace%20LLM%20Course).
 
-7. [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt?tab=readme-ov-file#introduction) - A turorial from TensorFlow
+7. [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt?tab=readme-ov-file#introduction) - A tutorial from TensorFlow
 
 Note: Lectures from Professor Madhavan Mukund (CMI) on RNN and LSTM are quite good and should be checked for fundamentals.
 
