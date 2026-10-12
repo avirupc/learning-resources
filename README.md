@@ -1,5 +1,4 @@
 # learning-resources
-A collection of learning resources
 
 Welcome to my collection of learning resources. Here I will continue to add materials primarily focused on Machine Learning and Statistical Methods. Over time, I may reorganize these topics in a more structured and interpretable way for easier navigation.
 
