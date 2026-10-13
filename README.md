@@ -19,6 +19,13 @@ I recommend reviewing the basics of RNNs before diving into the LSTM stuff here.
 
 Note: Lectures from Professor Madhavan Mukund (CMI) on RNN and LSTM are quite good and should be checked for fundamentals.
 
+## RAG
+
+1. [RAG Fundamentals and Advanced Techniques – Full Course](https://www.youtube.com/watch?v=ea2W8IogX80) - This video on RAG fundamentals from freeCodeCamp.org was one of the first videos I watched on RAGs. It's beginner-friendly and easy to follow, covering both the theory and the practical aspects through code examples. <br> The code scripts for the video can be found here: [Part 1](https://github.com/pdichone/rag-intro-chat-with-docs) | [Part 2](https://github.com/pdichone/advanced-rag-techniques).
+_The code will need some modifications if you want to use something other than the OpenAI API, such as Hugging Face._
+
+
+
 ## TensorFlow
 1. [TensorFlow official tutorial](https://www.tensorflow.org/tutorials/load_data/pandas_dataframe) - Looks like a comprehensive tutorial covering both beginner and advanced topics, with a focus on using TensorFlow for data processing.
 
