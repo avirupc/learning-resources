@@ -21,7 +21,7 @@ Note: Lectures from Professor Madhavan Mukund (CMI) on RNN and LSTM are quite go
 
 ## RAG
 
-1. [RAG Fundamentals and Advanced Techniques – Full Course](https://www.youtube.com/watch?v=ea2W8IogX80) - This video on RAG fundamentals from freeCodeCamp.org was one of the first videos I watched on RAGs. It's beginner-friendly and easy to follow, covering both the theory and the practical aspects through code examples. <br> The code scripts for the video can be found here: [Part 1](https://github.com/pdichone/rag-intro-chat-with-docs) | [Part 2](https://github.com/pdichone/advanced-rag-techniques).
+1. [RAG Fundamentals and Advanced Techniques – Full Course](https://www.youtube.com/watch?v=ea2W8IogX80) - This video from freeCodeCamp.org was one of the first videos I watched on RAGs. It's beginner-friendly and easy to follow, covering both the theory and the practical aspects through code examples. <br> The code scripts for the video can be found here: [Part 1](https://github.com/pdichone/rag-intro-chat-with-docs) | [Part 2](https://github.com/pdichone/advanced-rag-techniques).<br>
 _The code will need some modifications if you want to use something other than the OpenAI API, such as Hugging Face._
 
 2. [RAG & MCP Fundamentals – A Hands-On Crash Course](https://www.youtube.com/watch?v=I7_WXKhyGms) - Another video from freeCodeCamp.org.
